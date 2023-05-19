@@ -1,0 +1,59 @@
+How to add a google map to your project.
+----------------------------------------------------------
+<iframe>  link </iframe>
+
+step 1:-https://maps.google.com/
+
+step 2:- enter your location
+
+step 3:- share
+
+step 4:-Embed a map
+
+step 5:- copy the link
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.0947593840583!2d77.58698927390627!3d13.029637313605583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17bc281a3f8d%3A0xbb4669c3b202322f!2sVidyavahini%20First%20Grade%20College!5e0!3m2!1sen!2sin!4v1684464182485!5m2!1sen!2sin" width="1600" height="850" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+-------------------------------------------------------------------------------------------------------------------------------
+google form
+----------------------
+step 1:-https://google.com/forms
+
+step 2:-blank
+
+step 3:-Create the form
+
+step 4:-Responses
+
+step 5:-Link to sheets
+
+step 6:-create a new spread sheet
+
+step 7:- create
+
+step 8:-send
+
+step 9:- enter your email
+
+step 10:- <>
+
+step 11:- copy and paste in your html page.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmzoHYbsi1CScWUdHdFQk6rbAqprJ5DsBnRFpHzQNc9xYXeA/viewform?embedded=true" width="640" height="1344" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
