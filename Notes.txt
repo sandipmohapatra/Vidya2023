@@ -41,6 +41,103 @@ step 11:- copy and paste in your html page.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmzoHYbsi1CScWUdHdFQk6rbAqprJ5DsBnRFpHzQNc9xYXeA/viewform?embedded=true" width="640" height="1344" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ------------------------------------------
+Oracle database 
+--------------------------
+It is used to store structured data .It will have rows and columns.
+
+1)how to create table?
+create table vidya2023 (rollno number,name varchar2(30),address varchar2(30));
+
+2)How to insert rows?
+insert into vidya2023 values(101,'sandip','Bangalore');
+
+3)To view the records?
+select * from vidya2023;
+
+4)To view the selected records?
+select name,rollno from vidya2023;
+
+5)to view conditional records?
+select name,rollno from vidya2023 where rollno=103;
+
+6)to modify the records?
+update vidya2023 set address='Hydrabad' where rollno=103;
+or
+update vidya2023 set address='Hydrabad' where name='priya';
+
+7)to delete a record?
+delete from vidya2023 where name='priya';
+
+8)to add a column to your table?
+alter table vidya2023 add phoneno number;
+
+9)to enter data into new column?
+update vidya2023 set phoneno=9765577234 where rollno=103;
+
+10)to delete a column;
+alter table vidya2023 drop column phoneno;
+
+database name in oracle is (xe)
+-------------------------------------------------------------------------------------------------------
+what is database?
+1)For a project we create a database.
+example:- online shopping :- we will create a database called shopping;
+inside that all the tables related to the project will be stored.
+
+2)project name is women's safety?
+database name is women.
+inside that all the tables related to the project will be stored.
+--------------------------------------------------------------------------------------------------------------
+Mysql:-
+----------------
+1)to create database
+create database vidya2023;
+
+2)to go inside the database?
+use vidya2023;
+
+3how to create table?
+create table vidya2023 (rollno int,name varchar(30),address varchar(30));
+
+4)How to insert rows?
+insert into vidya2023 values(101,'sandip','Bangalore');
+
+5)To view the records?
+select * from vidya2023;
+
+6)To view the selected records?
+select name,rollno from vidya2023;
+
+7)to view conditional records?
+select name,rollno from vidya2023 where rollno=103;
+
+8)to modify the records?
+update vidya2023 set address='Hydrabad' where rollno=103;
+or
+update vidya2023 set address='Hydrabad' where name='priya';
+
+9)to delete a record?
+delete from vidya2023 where name='priya';
+
+
+10)to add a column to your table?
+alter table vidya2023 add phoneno varchar(12);
+
+11)to enter data into new column?
+update vidya2023 set phoneno=9765577234 where rollno=103;
+
+12)to delete a column;
+alter table vidya2023 drop column phoneno;
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
 
 
 
