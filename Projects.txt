@@ -1,0 +1,68 @@
+Hardware requirement:- 
+1)laptop -i3 processers
+2)10 gb HardDisk
+3)Ram 4gb
+
+----------------------------------------------------------------
+software requirement:-
+1)windows 10
+2)java 1.8
+3)oracle 10xe
+4)HTML,CSS,Javascript,Servlet
+5)weblogic server
+-----------------------------------------------------------------------------
+Women Safety:-
+1)Registration ,Login
+2)Types of crime 
+3)complain of the accused women
+4)status of the complain
+5)Police is the admin who can view the complaint
+6)update the status.
+7)mobile input form and view the complaint.
+----------------------------------------------------------------------------------
+Flight booking:-
+1)Registration and Login
+2)view the fights available
+3)book a flight
+4)cancel a flight
+5)admin login
+6)admin can see the reports of booked flights and cancelled flights.
+7)mobile input form and view the report.
+---------------------------------------------------------------------------------------------
+Beauty parlour(men and women):-
+1)Registration,login
+2)view services available(nail paint,hair cut,make up,....)
+3)select  services
+4)view the bill which is generated
+5)admin login
+6)admin can view the reports 
+7)mobile input form and view the report.
+-------------------------------------------------------------------------
+Travel guide:-
+1)registration ,login
+2)view the tourist places
+3)book a hotel
+4)broker details
+5)admin login
+6)view the reports
+7)mobile input form and view the report.
+-------------------------------------------------------------------------------
+courier service:-
+1)Registration,login
+2)your courier details
+3)cost will be displayed
+4)admin login
+5)admin can see the reports.
+-------------------------------------------
+Job portal:-
+1)register,login
+2)online exam
+3)marks will be displayed
+4)varities of job
+govt job,software job,
+5)jobs for you
+6)admin login
+7)admin can view the reports.
+8)mobile input form and view the report.
+-----------------------------------------------------
+------------------
