@@ -1,12 +1,14 @@
 <html>
 <script>
-function fun()
+function funs()
 {
 var a=f1.t1.value;
 var b=f1.t2.value;
 var c=f1.t3.value;
 var d=f1.t4.value;
 var e=f1.t5.value;
+var f=f1.t6.value;
+var g=f1.t7.value;
 if(a=="")
 {
 alert("name is empty");
@@ -38,6 +40,16 @@ else if(e=="")
 alert("DOB is empty");
 f1.t5.focus();
 }
+else if(f=="")
+{
+alert("city is empty");
+f1.t6.focus();
+}
+else if(g=="")
+{
+alert("country is empty");
+f1.t7.focus();
+}
 else
 {
 f1.submit();
@@ -55,7 +67,9 @@ alert("Data submitted successfully");
 <tr><td>Enter your phoneno<td><input type=number name=t3 size=20></tr>
 <tr><td>Enter your address<td><input type=text name=t4 size=20></tr>
 <tr><td>Enter your DOB<td><input type=date name=t5 size=20></tr>
-<tr><td><td><input type=button value=submit onclick="fun()"></tr>
+<tr><td>Enter your city<td><input type=text name=t6 size=20></tr>
+<tr><td>Enter your country<td><input type=text name=t7 size=20></tr>
+<tr><td><td><input type=button value=submit onclick="funs()"></tr>
 </table>
 </form>
 </body>
