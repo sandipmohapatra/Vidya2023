@@ -129,6 +129,21 @@ update vidya2023 set phoneno=9765577234 where rollno=103;
 12)to delete a column;
 alter table vidya2023 drop column phoneno;
 -------------------------------------------------------------------------------------------------------
+How to run the project
+-------------------------------------------------------
+open oracle
+Step 1:-table.txt
+copy it and paste in oracle database.
+
+start the server
+step 2:- copy the .war file and paste in the server
+C:\bea\user_projects\domains\sandip\applications 
+
+step 3:-
+open browser (crome)
+http://localhost:7001/travel/login.html
+------------------------------------------------------------------------
+
 
 
 
