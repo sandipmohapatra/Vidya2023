@@ -131,6 +131,8 @@ alter table vidya2023 drop column phoneno;
 -------------------------------------------------------------------------------------------------------
 How to run the project
 -------------------------------------------------------
+travel guide
+-------------------------
 open oracle
 Step 1:-table.txt
 copy it and paste in oracle database.
@@ -142,9 +144,42 @@ C:\bea\user_projects\domains\sandip\applications
 step 3:-
 open browser (crome)
 http://localhost:7001/travel/login.html
+
+step 4:- 
+to make change in html and make zip file.we need to go to the project folder.open command prompt.
+
+C:\Users\sandip>cd C:\Users\sandip\Desktop\Vidyaproject\Project\travel guide final
+
+C:\Users\sandip\Desktop\Vidyaproject\Project\travel guide final>jar -cvf travel.war .
 ------------------------------------------------------------------------
+women safety
+------------------------
+open oracle
+Step 1:-table.txt
+copy it and paste in oracle database.
 
+start the server
+step 2:- copy the .war file and paste in the server
+C:\bea\user_projects\domains\sandip\applications 
 
+step 3:-
+open browser (crome)
+http://localhost:7001/women/main.html
+
+-----------------------------------------------------------------------------
+user
+1)registeration of the victim
+2)login
+3)register the case
+4)check the status of the case.
+5)check the concelling 
+-----------------------------
+admin
+1)login
+2)check the registered case
+3)give the solution
+4)concelling is done by the admin
+-------------------------------------------------------
 
 
 
