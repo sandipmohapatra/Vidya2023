@@ -145,13 +145,32 @@ step 3:-
 open browser (crome)
 http://localhost:7001/travel/login.html
 
+how to zip the file
+---------------------------------
 step 4:- 
 to make change in html and make zip file.we need to go to the project folder.open command prompt.
 
 C:\Users\sandip>cd C:\Users\sandip\Desktop\Vidyaproject\Project\travel guide final
 
 C:\Users\sandip\Desktop\Vidyaproject\Project\travel guide final>jar -cvf travel.war .
+
+paste in the application folder
+
+Type the URL in the browser
 ------------------------------------------------------------------------
+user
+1)register
+2)login
+3)Book a room
+4)agent registration
+5)view video of tourist places
+6)contact
+7)feedback
+admin
+1)login
+2)view the report.
+
+-----------------------------------
 women safety
 ------------------------
 open oracle
@@ -180,7 +199,65 @@ admin
 3)give the solution
 4)concelling is done by the admin
 -------------------------------------------------------
+Airline reservation
+------------------------
+open oracle
+Step 1:-table.txt
+copy it and paste in oracle database.
 
+start the server
+step 2:- copy the .war file and paste in the server
+C:\bea\user_projects\domains\sandip\applications 
+
+step 3:-
+open browser (crome)
+http://localhost:7001/flying/index.html
+
+-----------------------------------------------------------------------------
+user
+1)registeration of the customer
+2)dosmistic flight registration to check the avilable flights.
+3)make the payment
+4)International flight registration to check the avilable flights.
+5)make the payment 
+6)cancel
+*ticket will be send to the mail-id after varification by the admin
+-----------------------------
+admin
+1)login
+2)check the registered users
+3)domistic flight users
+4)international fight users
+5)payments
+6)cancel
+-------------------------------------------------------
+Courier Service
+-----------------------------
+user
+1)enter courier details
+2)view recipt
+3)pay the amount 
+4)track the courier using tracking id
+5)feedback
+6)contact details for monthly service
+admin
+1)view the courier details
+2)update the packet location
+3)view feedback
+4)contact
+-------------------------------------------------------------------------------------
+open oracle
+Step 1:-table.txt
+copy it and paste in oracle database.
+
+start the server
+step 2:- copy the .war file and paste in the server
+C:\bea\user_projects\domains\sandip\applications 
+
+step 3:-
+open browser (crome)
+http://localhost:7001/courier/register.html
+-----------------------------------------------------------------------------
 
 
 
