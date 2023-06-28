@@ -257,9 +257,43 @@ C:\bea\user_projects\domains\sandip\applications
 step 3:-
 open browser (crome)
 http://localhost:7001/courier/register.html
+
+step-4:-
+set the path---(env.cmd)
+javac -d web-inf/classes *.java
+jar -cvf courier.war .
+paste into the server.
 -----------------------------------------------------------------------------
+Beauty Parlour
+-----------------------
+open oracle
+Step 1:-table.txt
+copy it and paste in oracle database.
 
+start the server
+step 2:- copy the .war file and paste in the server
+C:\bea\user_projects\domains\sandip\applications 
 
+step 3:-
+open browser (crome)
+http://localhost:7001/parl/index.html
+-----------------------------------------------------------------------------
+user
+1)Ladies enter there details
+2)Gents enter there details
+3)pay the amount 
+4)view pacakges
+5)feedback
+6)contact details for monthly service
+admin
+1)view the customer details
+2)view feedback
+3)contact
+--------------------------------------------------
+set the path---(env.cmd)
+javac -d web-inf/classes *.java
+jar -cvf parls.war .
+paste into the server.
 
 
 
